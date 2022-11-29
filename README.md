@@ -2,7 +2,7 @@
 
 ## Requirements
 - [Docker](https://www.docker.com/products/docker-desktop)
-- [.NET 6] (https://dotnet.microsoft.com/download/dotnet/6.0)
+- [.NET 7] (https://dotnet.microsoft.com/download/dotnet/6.0)
 
 ## Run Project
 
