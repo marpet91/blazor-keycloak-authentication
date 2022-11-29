@@ -1,4 +1,4 @@
-# article-blazor-keycloak
+# Blazor Webassembly using Keycloak for Authentication and Authorization
 
 ## Requirements
 - [Docker](https://www.docker.com/products/docker-desktop)
